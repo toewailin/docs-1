@@ -1,0 +1,106 @@
+a11y.sectionLink: အခန်းခေါင်းစဉ်
+# Site settings
+site.title: Astro သတင်းအချက်အလက်များ
+# Left Sidebar
+leftSidebar.sponsoredBy: ထောက်ပံ့သူ
+# Footer
+footer.community: ပရဟိတအသိုင်းအဝိုင်း
+footer.contribute: ရယူပါ
+footer.translatePage: ဒီစာမျက်နှာကို ဘာသာပြန်ပါ
+footer.sponsor: ထောက်ပံ့သူ
+# Used in `<Since>`: Added in: v0.24.0 [NEW]
+since.addedIn: 'ထည့်သွင်းခဲ့သော:'
+since.new: အသစ်
+since.beta: Beta
+# Installation Guide
+install.autoTab: အလိုအလျောက် CLI
+install.manualTab: လက်မှတ်တင်ခြင်း
+# `<DeployGuidesNav>` vocabulary
+deploy.sectionTitle: တပ်ဆင်ရေး လမ်းညွှန်များ
+deploy.altSectionTitle: အခြားတပ်ဆင်ရေး လမ်းညွှန်များ
+deploy.ssrTag: SSR
+deploy.staticTag: Static
+# CMS Guides vocabulary
+cms.navTitle: အခြား CMS လမ်းညွှန်များ
+# Media Guides vocabulary
+media.navTitle: အခြား DAM လမ်းညွှန်များ
+# Migration Guides vocabulary
+migration.navTitle: အခြား ပြောင်းရွှေ့ရေး လမ်းညွှန်များ
+# `<RecipeLinks>` vocabulary
+recipesLink.singular: 'သက်ဆိုင်သောချက်ပြုတ်ချက်:'
+recipesLink.plural: သက်ဆိုင်သောချက်ပြုတ်ချက်များ
+# 404 Page
+404.title: မတွေ့ရှိပါ
+404.content: ဒီစာမျက်နှာဟာ ကျွန်ုပ်တို့၏ နေရပ်စက်ပုံတွင် မရှိပါ။
+404.linkText: အိမ်သို့ ပြန်သွားပါ။
+# Integrations vocabulary
+integrations.changelog: ပြင်ဆင်မှတ်တမ်း
+integrations.footerTitle: အခြားသွင်းဆက်မှုများ
+integrations.renderers: ရှေ့ပိုင်း အစိတ်အပိုင်းများ
+integrations.adapters: SSR adapter များ
+integrations.others: အခြားသွင်းဆက်မှုများ
+integrations.more: အခြားသွင်းဆက်မှုများ
+# Checklist component
+checklist.or: သို့မဟုတ်
+# Multiple Choice component
+multipleChoice.defaultCorrect: မှန်ကန်သည်!
+multipleChoice.defaultIncorrect: ပြန်လည်ကြိုးစားပါ!
+multipleChoice.submitLabel: တင်သွင်းမည်
+# Tutorial Progress
+progress.todo: လုပ်ဆောင်ရန်
+progress.done: ပြီးစီးသည်
+# Tutorial Navigation
+tutorial.trackerLabel: သင်ကြားမှု ရက်စွဲ
+tutorial.unit: ယူနစ်
+# Tutorial
+tutorial.getReady: စတင်ရန် ပြင်ဆင်ပါ…
+# Code snippet vocabulary
+expressiveCode.terminalWindowFallbackTitle: terminal ရင်းနှီးမှု
+expressiveCode.copyButtonTooltip: clipboard သို့ ကူးယူပါ
+expressiveCode.copyButtonCopied: ကူးယူပြီးပါပြီ!
+# Backend Guides vocabulary
+backend.navTitle: အခြားနောက်ခံဝန်ဆောင်မှု လမ်းညွှန်များ
+# Starlight banner
+starlight.title: သင်၏ Docs ကို ဖန်တီးလိုပါသလား?
+starlight.description: စတင်ရန် ဒီနမူနာကို ယူပါ။
+# `<StudioHeading>` component
+studioHeading.label: စတူဒီယို အင်္ဂါရပ်
+# Upgrade guide
+upgrade.implementationPR: 'အကောင်အထည်ဖော်မှု PR: '
+
+# DocSearch component strings
+docsearch.button: ရှာဖွေပါ
+docsearch.shortcutLabel: ရှာဖွေရန် / ကို နှိပ်ပါ
+docsearch.placeholder: Docs ကို ရှာပါ
+# # The below keys and values are not set in English, but can be translated.
+# # They provide UI strings for the DocSearch modal component.
+# # SEARCH BOX
+# docsearch.modal.searchBox.resetButtonTitle: ရွေးချယ်မှုကို ဖျက်ပါ
+# docsearch.modal.searchBox.resetButtonAriaLabel: ရွေးချယ်မှုကို ဖျက်ပါ
+# docsearch.modal.searchBox.cancelButtonText: ရပ်တန့်ပါ
+# docsearch.modal.searchBox.cancelButtonAriaLabel: ရပ်တန့်ပါ
+# docsearch.modal.searchBox.searchInputLabel: ရှာဖွေမှု
+# # START SCREEN
+# docsearch.modal.startScreen.recentSearchesTitle: မကြာသေးမီ ရှာဖွေမှုများ
+# docsearch.modal.startScreen.noRecentSearchesText: မရှိသေးသော ရှာဖွေမှုများ
+# docsearch.modal.startScreen.saveRecentSearchButtonTitle: ဤရှာဖွေမှုကို သိမ်းပါ
+# docsearch.modal.startScreen.removeRecentSearchButtonTitle: ဤရှာဖွေမှုကို သမိုင်းမှ ဖယ်ရှားပါ
+# docsearch.modal.startScreen.favoriteSearchesTitle: ကြိုက်နှစ်သက်သော
+# docsearch.modal.startScreen.removeFavoriteSearchButtonTitle: ဤရှာဖွေမှုကို ကြိုက်နှစ်သက်သော များမှ ဖယ်ရှားပါ
+# # ERROR SCREEN
+# docsearch.modal.errorScreen.titleText: ရလဒ်များ မရရှိနိုင်ပါ
+# docsearch.modal.errorScreen.helpText: သင့်ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ဆေးပါ။
+# # FOOTER
+# docsearch.modal.footer.selectText: ရွေးချယ်ရန်
+# docsearch.modal.footer.selectKeyAriaLabel: Enter key
+# docsearch.modal.footer.navigateText: ရွှေ့ပါ
+# docsearch.modal.footer.navigateUpKeyAriaLabel: အပေါ်သို့ ငွေ့ရန်
+# docsearch.modal.footer.navigateDownKeyAriaLabel: အောက်သို့ ငွေ့ရန်
+# docsearch.modal.footer.closeText: ပိတ်ရန်
+# docsearch.modal.footer.closeKeyAriaLabel: Escape key
+# docsearch.modal.footer.searchByText: အားဖြင့် ရှာဖွေပါ
+# # NO RESULTS SCREEN
+# docsearch.modal.noResultsScreen.noResultsText: ရလဒ် မရှိပါ
+# docsearch.modal.noResultsScreen.suggestedQueryText: ရှာဖွေရန် တခြားတောင်းဆိုမှုများ
+# docsearch.modal.noResultsScreen.reportMissingResultsText: ဤတောင်းဆိုမှုသည် ရလဒ်များရရှိသင့်သည်ဟု ယူဆပါသလား?
+# docsearch.modal.noResultsScreen.reportMissingResultsLinkText: ကျွန်ုပ်တို့ကို အသိပေးပါ။
